@@ -1,0 +1,16 @@
+package com.wagu.dao;
+/*
+ * package com.wagu.dao;
+ * 
+ * import java.sql.Connection; import java.util.ArrayList;
+ * 
+ * import com.wagu.connection.DBconnection;
+ * 
+ * // 1.날짜 2.열차번호 3.호차를 담은 ArrayList public class korailSeatDAO { public
+ * ArrayList<String> seatList(String startDate, String endDate) { Connection
+ * conn = DBconnection.getConnection();
+ * 
+ * 
+ * 
+ * } }
+ */

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8">
+    <title>와구</title>
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="stylesheet" href="./test.css">
+  </head>
+  <body>
+    <div class="korail_main">
+      <div class="korail_header">
+        <div class="korail_page-title">
+          <div class="title_content">코레일</div>
+        </div>
+      </div>
+  
+      <div class="wrapper">
+        <div class="wrapper_content">
+          <div class="korail_wrapper_top">
+            <div class="round_trip" style="border-bottom: 2px solid black; text-align: center;">왕복</div>
+            <div class="one_way" style="text-align: center;">편도</div>
+          </div>
+    
+          <div class="korail_wrapper_bottom">
+            <div class="korail_search_wrapper round_trip" >
+              <div class="korail_search_wrapper_form" >
+                
+                <div class="station">
+                  <div class="station_form">
+                    <div class="station_div">출발역</div>
+                  </div>
+
+                  <div class = "popup">
+                    <div class = "korail_station_popup_content">
+
+                    </div>
+                  </div>
+
+                </div>
+    
+                <div class="round_trip_icon">
+                  <img src="./images/korail/round_trip_icon.svg" alt="왕복아이콘" class="round_trip_img">
+                </div>
+    
+                <div class="station">
+                  <div class="station_form">
+                    <div class="station_div">도착역</div>
+                  </div>
+                  
+                  <div class = "popup">
+                    <div class = "korail_station_popup_content">
+
+                    </div>
+                  </div>
+
+                </div>
+    
+                <div class="date">
+                  <img src="./images/korail/calendar_icon.svg" alt="달력아이콘">
+                  <div class="date_content">12월 01일 (목) - 12월 01일 (목)</div>
+                </div>
+                <div class="people">
+                  <div class="people_form">
+                    <img alt="사람아이콘" src="./images/korail/people_icon.svg">
+                    <div class="people_num">성인 1명 / 어린이 0명</div>
+                  </div>
+                  <div class ="popup">
+                    <div class="select_people">
+
+                    </div>
+
+                  </div>
+                </div>
+               
+                
+                <div class="search_div">
+                  <button class="search">검색하기</button>
+                </div>
+              </div>
+            </div>
+            <div class="korail_search_wrapper one_way" style="display: none;" >
+              <div class="korail_search_wrapper_form">
+                <div class="station">
+                  <div class="station_div">출발역</div>
+                </div>
+                <div class="round_trip_icon">
+                  <img src="./images/korail/round_trip_icon.svg" alt="왕복아이콘" class="round_trip_img">
+                </div>
+                <div class="station">
+                  <div class="station_div">도착역</div>
+                </div>
+                <div class="date">
+                  <img src="./images/korail/calendar_icon.svg" alt="달력아이콘">
+                  <div class="date_content">12월 01일 (목)</div>
+                </div>
+        
+                
+                <div class="people">
+                  <img alt="사람아이콘" src="./images/korail/people_icon.svg">
+                  <div class="people_num">성인 1명 / 어린이 0명</div>
+                </div>
+                
+                <div class="search_div">
+                  <button class="search">검색하기</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="search_history_wrapper">
+        <div class="search_history_content">
+          <p class="search_history_content_title">최근 검색 구간</p>
+          <div class = "history_section_wrapper">
+            <div class="history_section">
+              <div class="history_section_content">
+                <img class ="train_icon" src="./images/korail/station_icon.svg" alt="기차아이콘">
+                <div>대전</div>
+                <img class="onWay_icon" src="./images/korail/onWay_icon.svg" alt="편도 아이콘">
+                <div>서울</div>
+              </div>
+              
+              <img class="close_icon" src="./images/korail/close_button.svg" alt="닫기">
+            </div>
+            <div class="history_section">
+              <div class="history_section_content">
+                <img class ="train_icon" src="./images/korail/station_icon.svg" alt="기차아이콘">
+                <div>대전</div>
+                <img class="onWay_icon" src="./images/korail/onWay_icon.svg" alt="편도 아이콘">
+                <div>서울</div>
+              </div>
+              
+              <img class="close_icon" src="./images/korail/close_button.svg" alt="닫기">
+            </div>
+            <div class="history_section">
+              <div class="history_section_content">
+                <img class ="train_icon" src="./images/korail/station_icon.svg" alt="기차아이콘">
+                <div>대전</div>
+                <img class="onWay_icon" src="./images/korail/onWay_icon.svg" alt="편도 아이콘">
+                <div>서울</div>
+              </div>
+              
+              <img class="close_icon" src="./images/korail/close_button.svg" alt="닫기">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="notice_wrapper">
+        <div class="notice_content">
+          <div class="notice_text">
+            ※ 운행정보는 열차 사정에 따라 변경될 수 있으며 정확한 확인은 코레일 홈페이지를 이용해 주시기 바랍니다.<br>
+            본 서비스는 코레일 한국철도와 제휴하여 제공하는 승차권 조회 및 예매 서비스 입니다. ㈜와그는 승차권의 판매 당사자가 아니며 승차권 예매를 중개하는 역할만을 수행합니다.<br>
+            승차권 판매, 이용에 관한 의무와 책임은 한국철도공사에 있습니다.
+          </div>
+          <img src="./images/korail/korail_info_icon.png" alt="">
+        </div>
+
+      </div>
+
+
+    </div>
+
+    
+   
+    
+    <script>
+      function sendPost(url, params) {
+        var form = document.createElement('form');
+        form.setAttribute('method', 'post');
+//        form.setAttribute('target', '_blank');
+        form.setAttribute('action', url);
+        document.charset = "UTF-8";
+      
+        for (var key in params) {
+          var hiddenField = document.createElement('input');
+          hiddenField.setAttribute('type', 'hidden');
+          hiddenField.setAttribute('name', key);
+          hiddenField.setAttribute('value', params[key]);
+          form.appendChild(hiddenField);
+        }
+      
+        document.body.appendChild(form);
+        form.submit();
+      }
+      
+      sendPost('test2.html',{'a':'abc','b':'1234'});
+//      alert("!!");
+      </script>
+    <form action="test2.html" method="post">
+      <input type="text" name="a"/>
+      <input type="text" name="b"/>
+      <input type="submit" value="얍"/>
+    </form>    
+  </body>
+</html>

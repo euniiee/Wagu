@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/page/korailMain.jsp HTTP/1.1" 200 66880
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/css/common.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/js/korailMainTop.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/css/korailMain.css HTTP/1.1" 200 1592
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/js/korailMain.js HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/js/korailCheckdate.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/images/common/ HTTP/1.1" 404 840
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/images/korail/onWay_icon.svg HTTP/1.1" 200 404
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/images/korail/close_button.svg HTTP/1.1" 200 407
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:14 +0900] "GET /WaguDE/images/korail/korail_info_icon.png HTTP/1.1" 200 7619
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:16 +0900] "GET /WaguDE/page/images/favicon.png HTTP/1.1" 404 849
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:43 +0900] "GET /WaguDE/css/korailTimeTable.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:43 +0900] "GET /WaguDE/js/korailTimeTable.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:43 +0900] "GET /WaguDE/images/common/ HTTP/1.1" 404 840
+0:0:0:0:0:0:0:1 - - [26/Jan/2023:17:56:43 +0900] "GET /WaguDE/page/korailTimeTable.jsp?date1=01%EC%9B%94+26%EC%9D%BC&date2=01%EC%9B%94+27%EC%9D%BC&station_start=%EA%B4%91%EC%A3%BC&station_arrive=%EB%AA%A9%ED%8F%AC&adult=1&child=0&way=%EC%99%95%EB%B3%B5 HTTP/1.1" 200 104856

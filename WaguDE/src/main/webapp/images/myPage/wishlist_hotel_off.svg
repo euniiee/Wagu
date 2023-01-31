@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path fill="#CCC" d="M11.234 2.639c.226 0 .412.204.45.471l.008.103v13.104h.793l.001-10.121h2.598c.289 0 .522.233.522.522v9.599h.616c.164 0 .298.134.298.298v.447c0 .165-.134.298-.298.298l-.616-.001v.002h-3.12v-.002H3.77c-.164 0-.298-.132-.298-.297v-.447c0-.164.134-.298.298-.298h.616V3.241c0-.28.16-.515.375-.564l.083-.01h.483l5.423-.028h.484zM8.745 14.49H7.256v1.638h1.49v-1.638z" transform="translate(-1357 -311) translate(597 291) translate(760 20)"/>
+                    <path fill="#D8D8D8" d="M14.372 13.397v.567h-.707v-.567h.707zm0-1.84v.566h-.707v-.566h.707zm0-1.84v.566h-.707v-.566h.707zm0-1.84v.566h-.707v-.566h.707z" transform="translate(-1357 -311) translate(597 291) translate(760 20)"/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M10.231 5.27L8.691 5.27 8.691 4.227 10.257 4.227 10.257 5.27z" transform="translate(-1357 -311) translate(597 291) translate(760 20)"/>
+                    <path fill="#E5E5E5" fill-rule="nonzero" d="M7.361 5.252L5.821 5.252 5.821 4.227 7.386 4.227 7.386 5.252z" transform="translate(-1357 -311) translate(597 291) translate(760 20)"/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M7.386 11.272v1.044H5.821v-1.044h1.565zm2.87 0v1.044H8.692v-1.044h1.566zm-2.87-2.348v1.043H5.821V8.924h1.565zm2.87 0v1.043H8.692V8.924h1.566zm-2.87-2.349V7.62H5.821V6.575h1.565zm2.87 0V7.62H8.692V6.575h1.566z" transform="translate(-1357 -311) translate(597 291) translate(760 20)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

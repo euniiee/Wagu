@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\WaguProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2615263344.index
+\WaguDE\src\main\java
+C:\WaguProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1911565753.index
+\WaguDE\src\main\java
+C:\WaguProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3533246029.index
+\WaguDE\src\main\java
+C:\WaguProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3269499402.index
+\WaguDE\src\main\java

@@ -1,0 +1,59 @@
+1673235028321	Delete element
+1673235044226	Copy package
+1673235055876	Rename package 'com.de.dao.copy'
+1673240329213	Delete element
+1673242385859	Delete element
+1673242389639	Delete element
+1673242688755	Delete elements
+1673242737244	Copy package
+1673242744422	Rename package 'com.wagu.connection.copy'
+1673242768204	Copy package
+1673242775644	Delete element
+1673242802963	Copy package
+1673242859454	Move folder
+1673242864241	Move file
+1673242868825	Delete element
+1673243370850	Delete element
+1673243379039	Delete elements
+1673243384879	Delete element
+1673244435849	Move 'Login.jsp' to 'jsp'
+1673250262357	Rename resource 'Login.jsp'
+1673250359043	Rename resource 'login.jsp'
+1673250425354	Rename resource 'CSS'
+1673250564064	Rename resource 'css'
+1673250576978	Rename resource 'CSS'
+1673252652121	Rename resource 'jsp'
+1673254298836	Rename type 'KorailDTO'
+1673254374998	Delete element
+1673254415388	Rename type 'TrainNumber'
+1673255480022	Delete element
+1673255485527	Delete element
+1673255513731	Delete element
+1673255653749	Move compilation unit
+1673255667087	Rename type 'SearchDTO'
+1673343251630	Rename type 'AjaxKorailTopServlet'
+1673349643402	Rename type 'KorailMainServlet'
+1673349718167	Delete element
+1673399105128	Delete element
+1673425817051	Delete element
+1673427084884	Copy compilation unit
+1673430309721	Delete element
+1673433017844	Delete element
+1673433553558	Delete element
+1673434851400	Rename type 'korailTimeTable'
+1673435227237	Rename compilation unit 'korailTimeTableDTO.java'
+1673512222370	Move 'station.jsp' to 'page'
+1673512224281	Move 'WEB-INF' to 'page'
+1673512231411	Move 'WEB-INF' to 'css'
+1673574088764	Move 'WEB-INF' to 'webapp'
+1673576175973	Move 'captcha.JPG' to 'member'
+1673577484725	Delete element
+1673577683795	Move 'LoginServlet.java' to 'page'
+1673605862544	Move 'signUpServlet.java' to 'page'
+1673610420058	Delete element
+1673610428511	Delete element
+1673714899468	Move 'signUpServlet.java' to 'servlet'
+1673714928077	Move 'signUpServlet.java' to 'java'
+1673715102253	Move 'signUpServlet.java' to 'page'
+1673715162198	Move 'signUpServlet.java' to 'java'
+1673717091633	Move 'signUpServlet.java' to 'servlet'

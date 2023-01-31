@@ -1,0 +1,12 @@
+1674010728157	Delete element
+1674027243550	Delete element
+1674035549788	Delete element
+1674091987894	Rename package 'servlet'
+1674094217481	Rename type 'SeatsAvailableServlet'
+1674095174987	Rename local variable 'listSeatsAvailable'
+1674109955752	Rename resource 'singUp.css'
+1674110286775	Rename type 'signUpServlet'
+1674110302063	Rename type 'mailServlet'
+1674198515739	Rename compilation unit 'korailSeatDAO.java'
+1674198558633	Rename type 'korailTimeTableDAO'
+1674198584420	Rename type 'korailTimeTableDTO'

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\WaguProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2883601658.index
+320654996.index
+2863161360.index
+351537592.index
+352845048.index
+3564941344.index
